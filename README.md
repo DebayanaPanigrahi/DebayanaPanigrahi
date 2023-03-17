@@ -1,3 +1,4 @@
+![logo](https://github.com/DebayanaPanigrahi/DebayanaPanigrahi/blob/main/banner.PNG)
 <h1 align="center">Hi 👋, I'm Debayana Panigrahi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
